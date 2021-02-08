@@ -1,0 +1,22 @@
+{
+  "mp_login": {
+    "phone": "13911111111",
+    "code": "246810",
+    "exp": "江苏传智播客教育科技股份有限公司"
+  },
+  "mp_publish_article": {
+    "title": "今天学习很快乐000013",
+    "content": "这都是发自内心的",
+    "channel": "linux",
+    "exp": "新增文章成功"
+  },
+  "mis_login": {
+    "name": "testid",
+    "passwd": "testpwd123",
+    "exp": "欢迎 管理员"
+  },
+  "mis_audit": {
+    "article": "今天学习很快乐000013",
+    "exp": "审核通过"
+  }
+}
